@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0313/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 運菴普巖禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X70/X70n1379.xml
+    old_id: X70n1379
+hash: sha256:17dab9d04c01bb6ae43b321767e82da47cf56d3e5a5a109d6cf6223f9eaf3ec4
