@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0313_000.yaml, hash: 'sha256:17dab9d04c01bb6ae43b321767e82da47cf56d3e5a5a109d6cf6223f9eaf3ec4'}
-  - {seq: 1, filename: KR6q0313_001.yaml, hash: 'sha256:346d940c49d3bde3be87d9290b963e606404ec9954b4031d9dbae3414c41b40e'}
+  - {seq: 1, filename: KR6q0313_001.yaml, hash: 'sha256:02bd161a5a53e9b82e31af2f6656d0b68c5e855a32c9748fed5c304cb97e49a8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0313_001.markers.yaml, hash: 'sha256:f87708128429e0330bf96124e97f0d8485c9e636c784f37fa25c48a9936fca1e'}
+  - {seq: 0, role: markers, filename: assets/KR6q0313_000.markers.yaml, hash: 'sha256:694a3876eda53218c81dce8c3027cbfdd168cf9a7e143d33e920ab099e63bb2c'}
+  - {seq: 1, role: markers, filename: assets/KR6q0313_001.markers.yaml, hash: 'sha256:c85f5220c44cc4a1c9e84cfcdb25941a043baee8b40f204814c6ade4e01702c3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -396,7 +397,4 @@ table_of_contents:
   label: No. 1379-A 炎宋安吉州道場山護聖萬歲禪寺運菴禪師行實
   type: mulu
   level: 1
-hash: sha256:478eb8c7acac507263deabfd816dab7654ebee500c51ec2f1e8df08a5a3ede73
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b60d99db628671dd3ef73712f072a372eb6fe1a454b7b01328eae596f6632453
