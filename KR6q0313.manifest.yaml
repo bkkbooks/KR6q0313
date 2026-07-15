@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0313/v1
 canonical_location: https://kanripo.org/bkk/KR6q0313/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 運菴普巖禪師語錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0313_000.yaml, hash: 'sha256:17dab9d04c01bb6ae43b321767e82da47cf56d3e5a5a109d6cf6223f9eaf3ec4'}
-  - {seq: 1, filename: KR6q0313_001.yaml, hash: 'sha256:02bd161a5a53e9b82e31af2f6656d0b68c5e855a32c9748fed5c304cb97e49a8'}
+  - {seq: 1, filename: KR6q0313_001.yaml, hash: 'sha256:926ffcd4a8ee097c4ce43caac0f5f432775e1e5296013afde08713c2c88ef1aa'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0313_000.markers.yaml, hash: 'sha256:694a3876eda53218c81dce8c3027cbfdd168cf9a7e143d33e920ab099e63bb2c'}
-  - {seq: 1, role: markers, filename: assets/KR6q0313_001.markers.yaml, hash: 'sha256:c85f5220c44cc4a1c9e84cfcdb25941a043baee8b40f204814c6ade4e01702c3'}
+  - {seq: 1, role: markers, filename: assets/KR6q0313_001.markers.yaml, hash: 'sha256:1e78943ee4023980afd48b4f2919a2f3ca70c4ec8714b9cef464c9f5729884db'}
 table_of_contents:
 - ref:
     seq: 1
@@ -397,4 +397,7 @@ table_of_contents:
   label: No. 1379-A 炎宋安吉州道場山護聖萬歲禪寺運菴禪師行實
   type: mulu
   level: 1
-hash: sha256:b60d99db628671dd3ef73712f072a372eb6fe1a454b7b01328eae596f6632453
+hash: sha256:d60c41862e6e8a86e4820f90d80467d5202479c26304a6764e65ebcbeded6004
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
